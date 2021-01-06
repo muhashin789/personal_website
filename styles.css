@@ -212,6 +212,13 @@ p{
     top: 30%;
 }
 
+.design{
+    background: url("shapes/Group_33094_1.png");
+    background-repeat: no-repat;
+    background-size: cover;
+    background-position: center;
+}
+
 .design1{
     float: left;
     width: 50%;
@@ -263,6 +270,9 @@ p{
     margin: 0 8px 50px 8px;
     text-align: center;
 }
+
+
+
 
 
 
